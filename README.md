@@ -41,7 +41,6 @@ Output (49 classes)
 ```
 
 ```
-
 ## License
 
 Dataset: See [Kuzushiji dataset license](https://www.kaggle.com/datasets/anokas/kuzushiji/data)
